@@ -1,5 +1,5 @@
 DATABASE = 'db.db'
-TOKEN = '6077941896:AAFVHEWTP-OMpv6F7O9jjnNUcG_OBt0Uk0I'
+TOKEN = ''
 ANSWER = "КОТИК НА ЧЕМОДАНЕ"
 ANSWER_BONUS = 'ЛЕТИТ НА БАЛИ'
 
