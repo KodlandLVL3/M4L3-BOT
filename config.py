@@ -22,7 +22,7 @@ QUESTIONS_INFO = [
             'bonus' : 30
         },
         {
-            'list' : list(range(13,16)),
+            'list' : list(range(13,17)),
             'key' : "ЛЕТИТ НА БАЛИ",
             'bonus' : 60
         }
